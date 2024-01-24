@@ -52,4 +52,13 @@ export const images = {
   travel: require('../../img/travel.jpeg'),
   dailyneeds: require('../../img/dailyneeds.jpeg'),
   deal: require('../../img/Deal.gif'),
+  republicday: require('../../img/republicday.jpeg'),
+  homek1: require('../../img/homek1.jpeg'),
+  homek2: require('../../img/homek2.jpeg'),
+  homek3: require('../../img/homek3.jpeg'),
+  homek4: require('../../img/homek4.jpeg'),
+  jordan: require('../../img/jordan.jpeg'),
+  glasses: require('../../img/glasses.jpeg'),
+  watch: require('../../img/watch.jpeg'),
+  mobiledeal: require('../../img/mobiledeal.jpeg'),
 };

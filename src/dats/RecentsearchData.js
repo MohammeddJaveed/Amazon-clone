@@ -12,27 +12,27 @@ export const RecentSearchData = [
     image: images.service2,
   },
   {
-    id: 1,
+    id: 3,
     title: 'Recomemended deal for you',
     image: images.service4,
   },
   {
-    id: 1,
+    id: 4,
     title: 'Buy it again from fresh',
     image: images.service3,
   },
   {
-    id: 1,
+    id: 5,
     title: 'Buy it again',
     image: images.service5,
   },
   {
-    id: 1,
+    id: 6,
     title: 'Buy it again',
     image: images.service6,
   },
   {
-    id: 1,
+    id: 7,
     title: 'Buy it again',
     image: images.service7,
   },
